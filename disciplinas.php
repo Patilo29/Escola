@@ -54,8 +54,9 @@ NOVA DISCIPLINA
   <td >Sistema Operacional</td>
   <td></td>
   <td>SO
-  <a class="btn btn-warning">Editar</a>
-  <a class="btn btn-danger">Excluir</a>
+  <td><a class="btn btn-warning">Editar</a></td>
+
+  <td><a class="btn btn-danger">Excluir</a></td>
   </td>
 </tr>
 <tr>
@@ -63,8 +64,9 @@ NOVA DISCIPLINA
   <td >calculo</td>
   <td></td>
   <td>CL
-  <a class="btn btn-warning">Editar</a>
-  <a class="btn btn-danger">Excluir</a>
+  <td><a class="btn btn-warning">Editar</a></td>
+
+  <td><a class="btn btn-danger">Excluir</a></td>
   </td>
 </tr>
 <tr>
@@ -72,8 +74,9 @@ NOVA DISCIPLINA
   <td >Português</td>
   <td></td>
   <td>POR
-  <a class="btn btn-warning">Editar</a>
-  <a class="btn btn-danger">Excluir</a>
+  <td><a class="btn btn-warning">Editar</a></td>
+
+  <td><a class="btn btn-danger">Excluir</a></td>
   </td>
 </tr>
 <tr>
@@ -81,8 +84,9 @@ NOVA DISCIPLINA
   <td >Programação Web</td>
   <td></td>
   <td>PW
-  <a class="btn btn-warning">Editar</a>
-  <a class="btn btn-danger">Excluir</a>
+  <td><a class="btn btn-warning">Editar</a></td>
+
+  <td><a class="btn btn-danger">Excluir</a></td>
   </td>
 </tr>
 <tr>
@@ -90,8 +94,9 @@ NOVA DISCIPLINA
   <td > Hadware</td>
   <td></td>
   <td>HW
-  <a class="btn btn-warning">Editar</a>
-  <a class="btn btn-danger">Excluir</a>
+  <td><a class="btn btn-warning">Editar</a></td>
+
+  <td><a class="btn btn-danger">Excluir</a></td>
   </td>
 </tr>
 </tbody>
